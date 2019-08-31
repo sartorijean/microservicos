@@ -1,0 +1,16 @@
+{
+  "name": "cliente-service",
+  "version": "1.0.0",
+  "description": "Microserviço para disponibilização de dados do cliente.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeancarlo Sartori",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-safe": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11"
+  }
+}
